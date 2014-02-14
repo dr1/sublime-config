@@ -1,0 +1,14 @@
+/**
+* HTML: Encode Special Characters of selected text.
+*
+* @shortcut: ctrl+e
+*
+* @examples:
+*   maça -> ma&ccedil;a;
+*   avião -> avi&atilde;o;
+**/
+
+[{
+	"args": null,
+	"command": "encode_html_entities"
+}]
