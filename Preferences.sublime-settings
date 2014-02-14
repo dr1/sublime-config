@@ -1,0 +1,19 @@
+/**
+* Preferences » Settings - User
+**/
+
+{
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		160
+	],
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": false,
+	"trim_trailing_white_space_on_save": true,
+	"wrap_width": 160
+}
