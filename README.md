@@ -1,10 +1,10 @@
 sublime-config
 ==============
 
-My personal Sublime Text 2 configurations
+My personal Sublime Text 3 configurations
 
 File location
 -------------
 Windows:
 
-       %APPDATA%\Sublime Text 2\Packages\User
+       %APPDATA%\Sublime Text 3\Packages\User
