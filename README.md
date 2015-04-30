@@ -8,3 +8,7 @@ File location
 Windows:
 
        %APPDATA%\Sublime Text 3\Packages\User
+
+Mac:
+
+       /users/{username}/Library/Application Support/Sublime Text 3/User
