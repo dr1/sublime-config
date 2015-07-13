@@ -12,3 +12,7 @@ Windows:
 Mac:
 
        /users/{username}/Library/Application Support/Sublime Text 3/User
+
+Linux:
+
+       /home/{username}/.config/sublime-text-3/Packages/User/
